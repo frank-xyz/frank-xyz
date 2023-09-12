@@ -29,9 +29,9 @@ Hi, I'm Frank Garcia. I'm currently looking to embark on my professional career 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ## My Github Stats (Coming Soon!)
-![Frank's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=frankscorner&theme=tokyonight)
+![Frank's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=frank-xyz&theme=tokyonight)
 <br>
 ----
 <br>
 
-![Frank's GitHub stats](https://github-readme-stats.vercel.app/api?username=frankscorner&theme=tokyonight\&rank_icon=github)
+![Frank's GitHub stats](https://github-readme-stats.vercel.app/api?username=frank-xyz&theme=tokyonight\&rank_icon=github)
