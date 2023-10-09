@@ -5,9 +5,11 @@ Hi, I'm Frank Garcia. I'm currently looking to embark on my professional career 
 
 ## Languages, Frameworks, and Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,py,cpp,c,js,ts,react,nextjs,html,css,tailwind,jquery,php,r,julia" />
+  <img src="https://skillicons.dev/icons?i=java,py,cpp,c,js,react,ts,nextjs,html,css,tailwind,jquery,php" />
   <br />
-  <img src="https://skillicons.dev/icons?i=mysql,nodejs,linux,git,github,vercel,vim,neovim,idea,vscode,bash,powershell,raspberrypi,latex,regex" />
+  <img src="https://skillicons.dev/icons?i=mysql,nodejs,linux,git,github,vercel,vim,neovim,idea,vscode,bash,powershell" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=regex,latex,markdown,r,julia,pytorch,raspberrypi" />
 </div>
 
 ## My Setup
